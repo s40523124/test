@@ -1,1 +1,0 @@
-var tipuesearch = {"pages": [{'title': 'About', 'text': '倉儲連結 \n \n', 'tags': '', 'url': 'About.html'}]};
