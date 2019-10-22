@@ -1,1 +1,1 @@
-var tipuesearch = {"pages": [{'title': 'About', 'text': '倉儲 \n int i;\nint sum;\n  \nvoid main() {\n  sum = 0;\n  for ( i = 0; i < 10; i+2) {\n    print(i);\n    sum += i;\n  }\n  print(i);\n  print("sum=$sum");\n}\n \n \n', 'tags': '', 'url': 'About.html'}]};
+var tipuesearch = {"pages": [{'title': 'About', 'text': '倉儲 \n int i;\nint sum;\n  \nvoid main() {\n  sum = 0;\n  for ( i = 0; i < 10; i+2) {\n    print(i);\n    sum += i;\n  }\n  print(i);\n  print("sum=$sum");\n}\n \n', 'tags': '', 'url': 'About.html'}]};
